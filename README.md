@@ -1,4 +1,4 @@
-Profile views :   [![HitCount](https://hits.dwyl.com/mimothaking/mimothaking.svg?style=flat-square)](http://hits.dwyl.com/mimothaking/mimothaking)
+[![HitCount](https://hits.dwyl.com/mimothaking/mimothaking.svg?style=flat-square)](http://hits.dwyl.com/mimothaking/mimothaking)
 
 ### Hi there, I'm Machmachi Mohamed - aka [TheMoroccanMimo][youtube] 👋👋 
 
