@@ -3,8 +3,8 @@
 
 ## I'm a Student, Gamer, And a Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning React-Native 🤣
+- 👯 I’m expending my knowledge in mobile application
 - 🥅 2022 Goals: Become famous!
 - ⚡ Fun fact: I love to play guitar / drums and piano but i suck at them all :c
 
