@@ -3,11 +3,11 @@
 ### Hi there, I'm Machmachi Mohamed - aka [TheMoroccanMimo][youtube] 👋👋 
 
 
-## I'm a Student, Gamer, And a Developer!!
+## I'm a Tester, Gamer, And used to be a Youtuber!!
 
-- 🌱 I’m currently learning React-Native 🤣
-- 👯 I’m expending my knowledge in mobile application
-- 🥅 2022 Goals: Become famous!
+- 🌱 I’m currently learning Katalon 🤣
+- 👯 I’m expending my knowledge in QA engineering
+- 🥅 2023 Goals: Becoming a good QA engineer !
 - ⚡ Fun fact: I love to play guitar / drums and piano but i suck at them all :c
 
 ### Connect with me:
